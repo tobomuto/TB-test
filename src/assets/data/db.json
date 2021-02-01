@@ -1,0 +1,20 @@
+{
+    "orders":
+        {
+            "id": 405560003,
+            "dateOrder": "1 mai 2019",
+            "dateExpedition": "3 mai 2019",
+            "adress": [
+                {"title":"Point relais", "street":"57 rue Jean Pierre Timbaud", "city": "Paris", "code":"75011", "country":"France"}
+            ],
+            "articles": [
+                {"title":"L’incroyable matelas Tediber", "price": 750, "size": "160 x 200 cm", "quantity": 1, "path": "matelas.jpg"},
+                {"title":"L’incroyable OREILLER Tediber", "price": 85, "size": "60 x 60 cm", "quantity": 2, "path": "oreiller.jpg"},
+                {"title":"L’incroyable couette Tediber", "price": 210, "size": "240 x 220 cm", "quantity": 1, "path": "couette.jpg"}
+            ],
+            "contact":"Shannon Honniball",
+            "phone": "0664262272",
+            "estimation": "jeudi 9 mai 2019",
+            "mode": "livraison standard en point relais"
+        }
+}
