@@ -1,4 +1,6 @@
-# tediber-test
+# tediber-test is a simple integration on VueJS for the tediber brand
+
+  https://tobomuto.github.io/tb-test/
 
 ## Project setup
 ```
